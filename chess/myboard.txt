@@ -4,5 +4,5 @@ P P P P P P P P
 . . . . . . . .
 . . . . . . . .
 . . . . . . . .
-P p p . . . p p
-r n b . k . n r
+P p p p p p p p
+r n b q k b n r
